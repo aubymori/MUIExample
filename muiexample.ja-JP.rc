@@ -1,0 +1,9 @@
+﻿#include <windows.h>
+#include "resource.h"
+
+LANGUAGE LANG_JAPANESE, SUBLANG_JAPANESE_JAPAN
+
+STRINGTABLE
+{
+	IDS_HELLO "こんにちは！"
+}

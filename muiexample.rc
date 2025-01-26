@@ -1,0 +1,6 @@
+#include <windows.h>
+#include "resource.h"
+
+IDI_MUIEXAMPLE  ICON  "MUIExample.ico"
+
+#include "muiexample.en-US.rc"
