@@ -3,4 +3,4 @@
 
 IDI_MUIEXAMPLE  ICON  "MUIExample.ico"
 
-#include "muiexample.en-US.rc"
+#include "MUIExample.en-US.rc"
